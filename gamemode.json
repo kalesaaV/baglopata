@@ -1,0 +1,58 @@
+{
+  "Name": "<color=lime>б</a><color=red>аг</a><color=white>на</a><color=blue>лоп</a><color=yellow>ату</a>",
+  "Description": "<color=blue>чтобы баг на лопату сработал нужно запустить этот режим после того как вы нажали создать там должна появится штука которая крашит режим и потом вы должны выключить интернет и почле включить его и баг на лопату теперь работает удачи!</a>",
+  "StartClientVersion": 334,
+  "MapLists": [
+    {
+      "MapListId": 324,
+      "Name": "Официальные карты"
+    }
+  ],
+  "Parameters": {
+    "Bool": [
+      {
+        "Name": "Damage",
+        "DisplayName": "GmParams/Damage"
+      },
+      {
+        "Name": "PartialDesruction",
+        "DisplayName": "GmParams/PartialDesruction"
+      },
+      {
+        "Name": "LoosenBlocks",
+        "DisplayName": "GmParams/LoosenBlocks"
+      },
+      {
+        "Name": "RedTeam",
+        "DisplayName": "Teams/Red",
+        "Default": true
+      },
+      {
+        "Name": "BlueTeam",
+        "DisplayName": "Teams/Blue",
+        "Default": true
+      },
+      {
+        "Name": "BlueHasNothing",
+        "DisplayName": "GmParams/BlueHasNothing"
+      },
+      {
+        "Name": "FloodFill",
+        "DisplayName": "GmParams/FloodFill"
+      },
+      {
+        "Name": "FillQuad",
+        "DisplayName": "GmParams/FillQuad"
+      },
+      {
+        "Name": "RemoveQuad",
+        "DisplayName": "GmParams/RemoveQuad"
+      },
+      {
+        "Name": "Fly",
+        "DisplayName": "GmParams/Fly",
+        "Default": true
+      }
+    ]
+  }
+}
