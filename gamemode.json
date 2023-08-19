@@ -1,5 +1,5 @@
 {
-  "Name": "<color=lime>б</a><color=red>аг</a><color=white>на</a><color=blue>лоп</a><color=yellow>ату</a>",
+  "Name": "<color=lime>б</a><color=red>аг</a> <color=white>на</a> <color=blue>лоп</a><color=yellow>ату</a>",
   "Description": "<color=blue>чтобы баг на лопату сработал нужно запустить этот режим</a><color=lime> после того как вы нажали создать там должна появится штука крашнутого режима и потом вы должны выключить интернет и почле включить его</a><color=yellow> и баг на лопату теперь работает удачи!</a>",
   "StartClientVersion": 334,
   "MapLists": [
